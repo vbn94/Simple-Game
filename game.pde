@@ -1,7 +1,7 @@
 int xpos = 0;
 int ypos = 0;
-int xpos1 = 0;
 int ypos1 = 0;
+int new = 10;
 
 void setup(){
   size(600, 600);
